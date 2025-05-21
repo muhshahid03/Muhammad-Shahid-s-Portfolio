@@ -1,6 +1,6 @@
 # Muhammad Shahid Zafar
 ## Data Analyst|Virtual Analyst|Data Research Analyst| Finance Analyst
-### **📊 Project: Sales Dashboard of XYZ Company (2021–2023)**
+### [**📊 Project: Sales Dashboard of XYZ Company (2021–2023)**](https://github.com/muhshahid03/Projects-of-Data-Analytics/blob/main/Dashboard.pbix)
 
 1. Developed an interactive Sales Dashboard using Power BI to visualize three years of sales data.
 2. Analyzed key metrics including:
